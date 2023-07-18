@@ -31,11 +31,11 @@ Samira
 
 </br>
 <!--Italic-->
-_ This is an Italic text. _  
+<i> This is an Italic text. </i>  
 
 </br>
 <!--bold-->
-__ This is a bold text. __  
+<b> This is a bold text. </b> 
 
 </br>
 <!--Strike through-->
@@ -101,11 +101,13 @@ https://www.facebook.com/
 😊
 
 </br>
+
 <!--Table-->
+
 | NAME | EMAIL |  
-| --- | --- |  
-| Samia | say2samia@gmail.com |  
-| Anwar | anwarbjkgj@gmail.com |  
+| --- | --- |    
+| Samia | say2samia@gmail.com |    
+| Anwar | anwarbjkgj@gmail.com  |  
 
 </br>
 
