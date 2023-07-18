@@ -2,12 +2,112 @@
 this repo contains my life story.
 
 <!-- Markdown Comment -->
+</br>
 
+<!--Normal text and new line-->
 Anwar  
 Samira  
+</br>
+
+<!--Horizontal rule-->
 
 ---
 
-#Heading 1
+</br>
+
+<!--Headings-->
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+</br>
+
+<!--Paragraph-->
+<p>This is Samira Akter. I am 25 years old.This is Samira Akter. I am 25 years old.This is Samira Akter. I am 25 years old.This is Samira Akter. I am 25 years old.This is Samira Akter. I am 25 years old.This is Samira Akter. I am 25 years old.</p>
+
+</br>
+<!--Italic-->
+_This is an Italic text._
+
+</br>
+<!--bold-->
+__This is a bold text.__
+
+</br>
+<!--Strike through-->
+~~This is deleted.~~
+
+</br>
+<!--Inline code block-->
+'<html>
+  <head>
+    <body>
+      
+    </body>
+  </head>
+</html>'
+
+</br>
+<!--Multiple line code block-->
+'''kotlin
+  class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+    }
+}
+  '''
+
+</br>
+<!--Link-->
+<!-- Automatic Link-->
+[facebook](https://www.facebook.com/)</br>
+'https://www.facebook.com/'
+</br>
+https://www.facebook.com/
+
+</br>
+<!--List-->
+<!-- OrderList -->
+<ol>
+  <li>
+    Item1
+    Item2
+        item2.1
+  </li>
+</ol>
+</br>
+
+<!-- UnorderList -->
+_Item1
+_Item2
+  _Item2.1
+</br>
+
+<!-- TaskList -->
+_[]Task1
+_[x]Task2
+_[x]Task3
+</br>
+
+<!--Image-->
+[Profile]()
+
+</br>
+<!--Emoji-->
+https://emojipedia.org/smiling-face-with-smiling-eyes/
+
+</br>
+<!--Table-->
+|NAME|EMAIL|
+|---|---|
+|Samia|say2samia@gmail.com|
+|Anwar|anwarbjkgj@gmail.com|
+
+</br>
 
 
