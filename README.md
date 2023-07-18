@@ -31,25 +31,19 @@ Samira
 
 </br>
 <!--Italic-->
-_This is an Italic text._
+_ This is an Italic text. _  
 
 </br>
 <!--bold-->
-__This is a bold text.__
+__ This is a bold text. __  
 
 </br>
 <!--Strike through-->
-~~This is deleted.~~
+~~ This is deleted. ~~  
 
 </br>
 <!--Inline code block-->
-'<html>
-  <head>
-    <body>
-      
-    </body>
-  </head>
-</html>'
+'console.print("hello")'  
 
 </br>
 <!--Multiple line code block-->
@@ -66,32 +60,32 @@ __This is a bold text.__
 <!--Link-->
 <!-- Automatic Link-->
 [facebook](https://www.facebook.com/)</br>
-'https://www.facebook.com/'
+'https://www.facebook.com/'  
 </br>
-https://www.facebook.com/
+https://www.facebook.com/  
 
 </br>
 <!--List-->
 <!-- OrderList -->
 <ol>
   <li>
-    Item1
-    Item2
-        item2.1
+    Item1  
+    Item2  
+        item2.1  
   </li>
 </ol>
 </br>
 
 <!-- UnorderList -->
-_Item1
-_Item2
-  _Item2.1
+_Item1  
+_Item2  
+  _Item2.1  
 </br>
 
 <!-- TaskList -->
-_[]Task1
-_[x]Task2
-_[x]Task3
+_[]Task1  
+_[x]Task2  
+_[x]Task3  
 </br>
 
 <!--Image-->
@@ -99,14 +93,14 @@ _[x]Task3
 
 </br>
 <!--Emoji-->
-https://emojipedia.org/smiling-face-with-smiling-eyes/
+https://emojipedia.org/smiling-face-with-smiling-eyes/  
 
 </br>
 <!--Table-->
-|NAME|EMAIL|
-|---|---|
-|Samia|say2samia@gmail.com|
-|Anwar|anwarbjkgj@gmail.com|
+|NAME|EMAIL|  
+|---|---|  
+|Samia|say2samia@gmail.com|  
+|Anwar|anwarbjkgj@gmail.com|  
 
 </br>
 
