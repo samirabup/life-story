@@ -44,26 +44,30 @@ Samira
 </br>
 
 <!--Inline code block-->
-'html
-<html>
-  
-</html>'  
+'<html></html>'  
 
 </br>
+
 <!--Multiple line code block-->
-'''class MainActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-    }
+
+'''class MainActivity : AppCompatActivity() {  
+    override fun onCreate(savedInstanceState: Bundle?) {  
+        super.onCreate(savedInstanceState)  
+        setContentView(R.layout.activity_main)  
+    }  
 }'''
 
 </br>
+
 <!--Link-->
 <!-- Automatic Link-->
+
 [facebook](https://www.facebook.com/)</br>
-' https://www.facebook.com/ '  
+
+' https://www.facebook.com/ ' 
+
 </br>
+
 https://www.facebook.com/  
 
 </br>
