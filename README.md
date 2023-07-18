@@ -50,7 +50,8 @@ Samira
 
 <!--Multiple line code block-->
 
-'''class MainActivity : AppCompatActivity() {  
+'''Kotlin
+class MainActivity : AppCompatActivity() {  
     override fun onCreate(savedInstanceState: Bundle?) {  
         super.onCreate(savedInstanceState)  
         setContentView(R.layout.activity_main)  
@@ -109,6 +110,8 @@ https://www.facebook.com/
 </br>
 
 <!--Table-->
+
+
 
 | NAME | EMAIL |  
 | --- | --- |    
