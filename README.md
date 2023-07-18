@@ -42,19 +42,21 @@ Samira
 ~~ This is deleted. ~~  
 
 </br>
+
 <!--Inline code block-->
-'console.print("hello")'  
+'html
+<html>
+  
+</html>'  
 
 </br>
 <!--Multiple line code block-->
-'''kotlin
-  class MainActivity : AppCompatActivity() {
+'''class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-}
-  '''
+}'''
 
 </br>
 <!--Link-->
