@@ -98,14 +98,14 @@ https://www.facebook.com/
 
 </br>
 <!--Emoji-->
-https://emojipedia.org/smiling-face-with-smiling-eyes/  
+😊
 
 </br>
 <!--Table-->
-|NAME|EMAIL|  
-|---|---|  
-|Samia|say2samia@gmail.com|  
-|Anwar|anwarbjkgj@gmail.com|  
+| NAME | EMAIL |  
+| --- | --- |  
+| Samia | say2samia@gmail.com |  
+| Anwar | anwarbjkgj@gmail.com |  
 
 </br>
 
