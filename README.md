@@ -67,13 +67,7 @@ https://www.facebook.com/
 </br>
 <!--List-->
 <!-- OrderList -->
-<ol>
-  <li>
-    Item1  
-    Item2  
-        item2.1  
-  </li>
-</ol>
+<ol><li>Item1  Item2    item2.1  </li></ol>
 </br>
 
 <!-- UnorderList -->
@@ -83,13 +77,13 @@ https://www.facebook.com/
 </br>
 
 <!-- TaskList -->
-_[]Task1  
-_[x]Task2  
-_[x]Task3  
+- []Task1  
+- [x]Task2  
+- [x]Task3  
 </br>
 
 <!--Image-->
-[Profile]()
+[Profile]()  
 
 </br>
 <!--Emoji-->
